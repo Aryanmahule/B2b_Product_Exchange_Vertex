@@ -15,7 +15,7 @@ The platform uses **TF-IDF cosine similarity** to analyze each company's needs a
 ## Screenshots
 
 ### Login Page
-![Login](screenshots/login.png)
+![Login](screenshots/loginpage.png)
 
 ### Register Page
 ![Register](screenshots/register.png)
@@ -42,7 +42,7 @@ The platform uses **TF-IDF cosine similarity** to analyze each company's needs a
 ![Analytics](screenshots/analytics.png)
 
 ### Company Profile
-![Company Profile](screenshots/company-profile.png)
+![Company Profile](screenshots/company_profile.png)
 
 ---
 
